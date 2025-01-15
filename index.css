@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+p, h3, h2, h4, h1, h5, option, label,footer {
+	font-family: Roboto Slab;
+	font-weight: 500;
+}
+
+nav{
+	background-color: #727D73;
+	color: #F0F0D7;
+}
+
+#landing{
+	background-color: #AAB99A;
+	color: #F0F0D7;
+}
+
+#landing img{
+	border:5px solid #727D73;
+}
+
+
+#projects h3{
+	text-align: center;
+	font-family: Roboto Slab;
+	font-weight: 500;
+}
+
+#cardBorder{
+	border: 10px solid #727D73;
+}
+
+#footerColor{
+	color: white;
+}
+
+label{
+	color: #727D73;
+}
+
+#contact form input, option{
+	font-family: Roboto Slab;
+	font-weight: 500;
+}
+
+nav a {
+	font-family: Roboto Slab;
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 21.94px;
+	color: white;
+}
+
+img{
+	width: 60%;
+	height: 60%;
+}
+
+
+h3 ~ p{
+	 text-align: justify;
+}
+
+#contact{
+	background-color: #D0DDD0;
+	font-family: ;
+}
+
+
+footer{
+	background-color: #727D73 !important;
+}
+
+#social img{
+	border: 1px solid white;
+	border-radius: 25% !important;
+
+}
