@@ -81,3 +81,14 @@ footer{
 	border-radius: 25% !important;
 
 }
+#map iframe{
+	width: 600px; 
+	height:600px; 
+	border:0px;
+}
+
+#tools img{
+	width: 150px; 
+	
+}
+
